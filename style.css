@@ -1,0 +1,15 @@
+.img-design{
+    
+    height: 30vh;
+}
+.section-design{
+    background-color: #4d32a3;
+    color: white;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.button-design{
+    background-color: white;
+    color: #06be83 ;
+    margin-bottom: 20px;
+}
